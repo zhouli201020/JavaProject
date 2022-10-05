@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class problem1_2_2 {
     public static void main(String[] args) {
         //提示用户输入一个四位数，并将结果保存在number中
-        System.out.println("请输入一个4位数：");
+        System.out.println("请输入一个整数：");
         Scanner s = new Scanner(System.in);
         int number = s.nextInt();
         //定义字符串型变量output用于存放逆序后的每一位数字
