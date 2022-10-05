@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 功能：对输入的任何长度的整型数进行逆序并加1后输出
  */
-public class problem1_2 {
+public class problem1_2_1 {
     public static void main(String[] args) {
         //提示用户输入一个四位数，并将结果保存在number中
         System.out.println("请输入一个4位数：");
