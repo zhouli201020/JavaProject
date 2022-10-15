@@ -1,4 +1,4 @@
-package Chapter2_1; /**
+package InClass.Chapter2_1; /**
  * 注：测试专用程序
  */
 

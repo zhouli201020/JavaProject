@@ -1,4 +1,4 @@
-package Experiment1;
+package InClass.Experiment1;
 
 /**
  * 功能：计算1-1/3+1/5-1/7+1/9-1/11+…的前100项之和

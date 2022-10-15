@@ -1,4 +1,4 @@
-package Chapter2_2;
+package InClass.Chapter2_2;
 
 /**
  * 说明：此程序输出10行的“*金字塔”

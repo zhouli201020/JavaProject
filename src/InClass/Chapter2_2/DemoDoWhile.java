@@ -1,4 +1,4 @@
-package Chapter2_2;
+package InClass.Chapter2_2;
 
 /**
  * 说明：此程序利用Do-While语句实现从1至100的加法

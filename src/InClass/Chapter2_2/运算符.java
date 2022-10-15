@@ -1,4 +1,4 @@
-package Chapter2_2;
+package InClass.Chapter2_2;
 
 public class 运算符 {
     public static void main(String[] args) {

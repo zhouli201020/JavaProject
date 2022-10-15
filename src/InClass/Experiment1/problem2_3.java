@@ -1,4 +1,4 @@
-package Experiment1;
+package InClass.Experiment1;
 
 import java.util.Scanner;
 

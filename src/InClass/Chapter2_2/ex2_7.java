@@ -1,4 +1,4 @@
-package Chapter2_2; /**
+package InClass.Chapter2_2; /**
  * 说明：此程序展示switch语句的使用
  */
 

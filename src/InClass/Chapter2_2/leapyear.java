@@ -1,4 +1,4 @@
-package Chapter2_2; /**
+package InClass.Chapter2_2; /**
  * 说明：此程序判断输入的年份为平年还是闰年
  */
 

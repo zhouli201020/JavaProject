@@ -1,4 +1,4 @@
-package Chapter2_2; /**
+package InClass.Chapter2_2; /**
  * 说明：此程序实现对输入的一个整数逆序输出
  * 例如：输入12345，输出54321
  */

@@ -1,4 +1,4 @@
-package Chapter2_1;
+package InClass.Chapter2_1;
 
 public class ex2_1 {
     public static void main(String[] args) {
