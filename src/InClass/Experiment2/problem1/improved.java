@@ -1,5 +1,5 @@
 /**
- * 问题一的提高要求
+ * 问题一的提高要求，文件名：improved.java
  */
 package InClass.Experiment2.problem1;
 
@@ -8,7 +8,6 @@ public class improved {
         int[] array = {16, 21, 10, 62, 34};
         System.out.println("操作前的数组为：");
         basic.outputArray(array);
-        System.out.println();
         evenArray(array);//调用方法将数组元素变为偶数
         System.out.println("操作后的数组为：");
         basic.outputArray(array);
