@@ -1,5 +1,5 @@
 /**
- * 问题二的思考题
+ * 问题二的思考题，文件名为：think.java
  */
 package InClass.Experiment2.problem2;
 
