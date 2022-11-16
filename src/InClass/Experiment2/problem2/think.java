@@ -10,6 +10,7 @@ public class think {
         System.out.println("请输入心形上半部分的行数（为了保证能够显示出图形，行数至少为2）：");
         Scanner s = new Scanner(System.in);
         int up = s.nextInt();
+        //心形上部
         for (int i = 0; i < up; i++) {
             for (int j = 0; j < 2 * up - 1 - 2 * i; j++) {
                 System.out.print(" ");
@@ -25,10 +26,12 @@ public class think {
             }
             System.out.println();
         }
+        //心形中部
         for (int i = 0; i < 8 * up - 2; i++) {
             System.out.print("*");
         }
         System.out.println();
+        //心形下部分
         for (int i = 0; i < 2 * up; i++) {
             for (int j = 0; j < 2 * i; j++) {
                 System.out.print(" ");
