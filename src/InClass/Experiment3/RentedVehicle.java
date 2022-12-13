@@ -1,5 +1,8 @@
 package InClass.Experiment3;
 
+/**
+ * FILENAME:RentedVehicle.java
+ */
 public class RentedVehicle {
     private double baseFee;
 

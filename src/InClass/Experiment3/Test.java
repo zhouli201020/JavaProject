@@ -2,6 +2,9 @@ package InClass.Experiment3;
 
 import org.jetbrains.annotations.NotNull;
 
+/**
+ * FILENAME:Test.java
+ */
 public class Test {
     public static void main(String[] args) {
         Bicycle b1 = new Bicycle(4);
@@ -11,6 +14,6 @@ public class Test {
     }
 
     public static void displayFee(@NotNull RentedVehicle r) {
-        System.out.println("租车费用为："+r.costToRent());
+        System.out.println("租车费用为：" + r.costToRent());
     }
 }

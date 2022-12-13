@@ -1,5 +1,8 @@
 package InClass.Experiment3;
 
+/**
+ * FILENAME:FuelVehicle.java
+ */
 public class FuelVehicle extends RentedVehicle {
     private double nbKms;
 

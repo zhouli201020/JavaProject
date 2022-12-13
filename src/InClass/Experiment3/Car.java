@@ -1,5 +1,8 @@
 package InClass.Experiment3;
 
+/**
+ * FILENAME:Car.java
+ */
 public class Car extends FuelVehicle {
     private int nbSeats;
 
