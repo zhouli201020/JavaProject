@@ -14,6 +14,6 @@ public class Test {
     }
 
     public static void displayFee(@NotNull RentedVehicle r) {
-        System.out.println("租车费用为：" + r.costToRent());
+        System.out.println(r.toString() + "的租车费用为：" + r.costToRent());
     }
 }

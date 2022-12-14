@@ -23,4 +23,9 @@ public class Bicycle extends RentedVehicle {
     public double costToRent() {
         return getBaseFee() * getNbHours();
     }
+
+    @Override
+    public String toString() {
+        return "自行车";
+    }
 }

@@ -23,4 +23,9 @@ public class Car extends FuelVehicle {
     public double costToRent() {
         return getBaseFee() * nbSeats + getMileageFees();
     }
+
+    @Override
+    public String toString() {
+        return "汽车";
+    }
 }
