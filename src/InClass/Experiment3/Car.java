@@ -26,6 +26,6 @@ public class Car extends FuelVehicle {
 
     @Override
     public String toString() {
-        return "汽车";
+        return nbSeats + "座汽车租用" + getNbKms() + "km";
     }
 }

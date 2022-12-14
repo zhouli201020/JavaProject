@@ -26,6 +26,6 @@ public class Bicycle extends RentedVehicle {
 
     @Override
     public String toString() {
-        return "自行车";
+        return "自行车租用" + nbHours + "小时";
     }
 }
